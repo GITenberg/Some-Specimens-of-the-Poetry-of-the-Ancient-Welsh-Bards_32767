@@ -1,0 +1,35 @@
+_repo: Some-Specimens-of-the-Poetry-of-the-Ancient-Welsh-Bards_32767
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Jenkins, John
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '8083'
+    url: http://www.gutenberg.org/2009/agents/8083
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Evan
+    birthdate: 1731
+    deathdate: 1788
+    gutenberg_agent_id: '36039'
+    url: http://www.gutenberg.org/2009/agents/36039
+description: ''
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32767'
+  lccn: '18004755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Welsh poetry -- Translations into English'
+- !lcsh 'Welsh poetry -- To 1550'
+title: Some Specimens of the Poetry of the Ancient Welsh Bards
+url: http://www.gutenberg.org/ebooks/32767
